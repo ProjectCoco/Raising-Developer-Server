@@ -1,4 +1,6 @@
 rootProject.name = 'developer'
 include 'core'
 include 'character'
+include 'item'
+include 'inventory'
 
